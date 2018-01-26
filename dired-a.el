@@ -7,6 +7,8 @@
 ;; Keywords: dired
 ;; Last edited: Tue Nov 19 14:30:32 1996 by Inge Frick <inge@nada.kth.se>
 
+;; License: GPL
+
 ;; This file is not part of GNU Emacs (yet).
 ;; This file is distributed in the hope that it will be useful,
 ;; but WITHOUT ANY WARRANTY.  Neither the author nor any distributor
